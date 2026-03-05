@@ -1,0 +1,1 @@
+A RAG based system that allows users to query financial reports and obtain answers with verifiable citations. The system retrieves relevant information from financial documents and generates concise answers grounded in the source material.
