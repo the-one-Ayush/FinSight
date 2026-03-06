@@ -14,19 +14,19 @@ Python<br/>
 **LLM for Answer Generation:**<br/>
 Meta Llama-3.1-8B-Instruct (via Hugging Face API)<br/>
 
-**Retrieval & Embeddings**<br/>
+**Retrieval & Embeddings:**<br/>
 SentenceTransformers (all-MiniLM-L6-v2)<br/>
 ChromaDB – vector database<br/>
 BM25 – keyword-based retrieval<br/>
 
-**Ranking**<br/>
+**Ranking:**<br/>
 Cross-Encoder Reranker (SentenceTransformers) (all-MiniLM-L6-v2)<br/>
 Numpy<br/>
 Scikit-learn<br/>
 
-**Document Processing**<br/>
+**Document Processing:**<br/>
 PyMuPDF<br/>
 NLTK<br/>
 
-**Frontend**<br/>
+**Frontend:**<br/>
 Streamlit<br/>
