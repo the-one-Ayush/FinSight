@@ -7,7 +7,7 @@ A RAG based system that allows users to query financial reports and obtain answe
 <br/>
 <br/>
 
-###**Tech Stack**<br/>
+# **Tech Stack**<br/>
 **Programming Language:**<br/>
 Python<br/>
 
