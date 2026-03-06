@@ -11,7 +11,7 @@ A RAG based system that allows users to query financial reports and obtain answe
 **Programming Language:**<br/>
 Python<br/>
 
-**LLMS:**<br/>
+**LLM for Answer Generation:**<br/>
 Meta Llama-3.1-8B-Instruct (via Hugging Face API)<br/>
 
 **Retrieval & Embeddings**<br/>
